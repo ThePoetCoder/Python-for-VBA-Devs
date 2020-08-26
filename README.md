@@ -1,24 +1,24 @@
 # Python for VBA Developers
 
 ### About
-* [Why teach Python to VBA Developers?](../about.md)
+* [Why teach Python to VBA Developers?](../master/about.md)
 
 ### Syntax Translations
-* [Comments](../comments.md)
-* [Equivalence & Assignment](../equivalence-and-assignment.md)
-* [Incrementing Variables](../increment.md)
-* [Quotes](../quotes.md)
-* [Select-Case Statement Workaround](../switch-case.md)
-* [Statement Delimiters](../statement-delim.md)
+* [Comments](../master/comments.md)
+* [Equivalence & Assignment](../master/equivalence-and-assignment.md)
+* [Incrementing Variables](../master/increment.md)
+* [Quotes](../master/quotes.md)
+* [Select-Case Statement Workaround](../master/switch-case.md)
+* [Statement Delimiters](../master/statement-delim.md)
 
 ### Breaking Free of the VBE
-* [Running Python with VBA](../cmd.md)
-* [Who, What, Where, When, and Why PyCharm](../why-pycharm.md)
-* [PyCharm's Keymap](../pycharm-keymap.md)
-* [References](../references.md)
-* [Print & Assert Statements](../print-and-assert.md)
+* [Running Python with VBA](../master/cmd.md)
+* [Who, What, Where, When, and Why PyCharm](../master/why-pycharm.md)
+* [PyCharm's Keymap](../master/pycharm-keymap.md)
+* [References](../master/references.md)
+* [Print & Assert Statements](../master/print-and-assert.md)
 
 ### The Pandas Library
-* [Importing Data From Excel](../xl-to-df.md)
-* [Filtering a Pandas Dataframe](../filtering-df.md)
-* [Getting a Row Count](../row-count.md)
+* [Importing Data From Excel](../master/xl-to-df.md)
+* [Filtering a Pandas Dataframe](../master/filtering-df.md)
+* [Getting a Row Count](../master/row-count.md)
