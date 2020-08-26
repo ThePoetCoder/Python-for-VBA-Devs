@@ -14,7 +14,7 @@
 ### Breaking Free of the VBE
 * [Running Python with VBA](../master/cmd.md)
 * [Who, What, Where, When, and Why PyCharm](../master/why-pycharm.md)
-* [PyCharm's Keymap](../master/pycharm-keymap.md)
+* [PyCharm's Keymap](../master/keymap.md)
 * [References](../master/references.md)
 * [Print & Assert Statements](../master/print-and-assert.md)
 
