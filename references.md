@@ -38,3 +38,21 @@ Set FSO = CreateObject("Scripting.FileSystemObject")
 Set FSO = Nothing
 ```
 Python (in general, unless we're speaking about closures) is a lot more straightforward. As long as you have the file on your computer and reference it correctly, you will be able to use all the code inside as allowed.
+
+You can import your own code, or code that other people have written. 
+For your own code, let's say you have 2 files named "A.py" and "B.py". Inside A.py you have written only `tf = False`. If you wanted to reference and print out that variable inside B.py you could write:
+```python
+import A
+print(A.tf)
+```
+For code you didn't write, you're going to want to learn to use the `pip` installer. Pip is the number one way to access TBs of code that other people are giving away for free on [PyPI](pypi.org). Once you have Python installed, you simply have to open a command prompt and type in the name of the package you're interested in downloading. For instance, if you wanted to download Pandas, once you have Python installed you would type in:
+
+```cmd
+pip install pandas
+```
+
+and it will automatically connect to PyPI and grab that package for you! You would then reference it at the top of your code as simply as:
+
+```python
+import pandas
+```
