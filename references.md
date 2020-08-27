@@ -45,13 +45,13 @@ For your own code, let's say you have 2 files named "A.py" and "B.py". Inside A.
 import A
 print(A.tf)
 ```
-For code you didn't write, you're going to want to learn to use the `pip` installer. Pip is the number one way to access TBs of code that other people are giving away for free on [PyPI](pypi.org). Once you have Python installed, you simply have to open a command prompt and type in the name of the package you're interested in downloading. For instance, if you wanted to download Pandas, once you have Python installed you would type in:
+For code you didn't write, you're going to want to learn to use the `pip` installer. Pip is the number one way to access TBs of code that other people are giving away for free on [PyPI](pypi.org). Once you have Python installed, you simply have to open a command prompt and type in `pip install` and the name of the package you're interested in downloading. For instance, if you wanted to download Pandas (once you have Python installed) you would open a command prompt and type in:
 
 ```cmd
 pip install pandas
 ```
 
-and it will automatically connect to PyPI and grab that package for you! You would then reference it at the top of your code as simply as:
+and it will automatically connect to PyPI and grab that package for you! Then at the top of your code/.py file you could reference it as simply as:
 
 ```python
 import pandas
