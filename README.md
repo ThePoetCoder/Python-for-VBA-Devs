@@ -12,6 +12,7 @@
 * [Statement Delimiters](../master/statement-delim.md)
 
 ### Breaking Free of the VBE
+* [Writing VBA Code in Python](../master/safexl.md)
 * [Running Python with VBA](../master/cmd.md)
 * [Who, What, Where, When, and Why PyCharm](../master/why-pycharm.md)
 * [PyCharm's Keymap](../master/keymap.md)
