@@ -2,12 +2,13 @@
 
 Python has the exact same syntax for assigning variables, but a slightly different syntax than VBA for testing equivalence . To put it simply:
 
-```
-            VBA  Python
-Assignment   =     =
-Equal        =     ==
-Not Equal    <>    !=
-```
+
+| Type |   VBA  | Python |
+|:-----|:-------|:-------|
+|Assignment |  =   |  =|
+|Equal      |  =   |  ==|
+|Not Equal  |  <>   | !=|
+
 
 In VBA, the `=` operator works for both assignment and equivalence testing. So something like this is valid VBA code:
 
