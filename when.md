@@ -14,7 +14,7 @@ The list goes on and on, and yet millions of dollars in business decisions still
 ## What I feel Microsoft **really** got right with VBA is it's limited use-case and ease of use.
 
 ### Limited Use Case
-With VBA, the use case is immediately obvious; it's used for Excel or other Micorsoft Office Applications. It says so right in it's name "Visual Basic **for Applications**". And while this is perfect if all the things you want to automate are also inside Microsoft Office Applications, eventually you're going to outgrow that sandbox, the same way you outgrew functions and Ribbon buttons and had to move on to VBA.
+With VBA, the use case is immediately obvious; it's used for Excel or other Microsoft Office Applications. It says so right in it's name "Visual Basic **for Applications**". And while this is perfect if all the things you want to automate are also inside Microsoft Office Applications, eventually you're going to outgrow that sandbox, the same way you outgrew functions and Ribbon buttons and had to move on to VBA.
 
 ### Ease of Use
 There's no denying that VBA is easy to learn and use. It's likely your first subroutines were even built with the Macro recorder! How awesome is that? It writes code for you! And once you need to dive into the code, the object model has a very logical hierarchy (for Excel it's Application -> Workbook -> Worksheet -> Range, etc.) and between the macro recorder and some trial and error you can figure out how to read and edit your code.
@@ -27,4 +27,4 @@ Here are some questions you can ask yourself that indicate you're reaching the e
 * Do you need to reach for PowerQuery every day to get the job done?
 * Is your VBA littered with API calls and PtrSafe stuff to temporarily reach outside the sandbox and accomplish what you have in mind?
 
-Answering 'yes' to any of these questions is an indication you are outgrowing the VBA as a language and Excel as a tool. To start down the path of learning what is possible in Python check out [this link](https://automatetheboringstuff.com). It is very beginner friendly, and Python goes way deeper than this describes, but as a first place to dive in it's very helpful
+Answering 'yes' to any of these questions is an indication you are outgrowing VBA as a language and Excel as a tool. To start down the path of learning what is possible in Python check out [this link](https://automatetheboringstuff.com). It is very beginner friendly, and Python goes way deeper than this describes, but as a first place to dive in it's very helpful.
