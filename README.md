@@ -2,6 +2,7 @@
 
 ### About
 * [Why teach Python to VBA Developers?](../master/about.md)
+* [When is it Time to Move on from VBA?](../master/when.md)
 
 ### Syntax Translations
 * [Comments](../master/comments.md)
