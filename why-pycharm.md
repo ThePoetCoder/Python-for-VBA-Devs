@@ -1,6 +1,6 @@
 # Who, What, Where, When, & Why PyCharm
 
-If the only experience you have with coding is writing VBA (Visual Basic for Applications) in the VBE (Visual Basic Environment), then you would likely benefit from using within another development environment to write Python. Fortunately, there are many to choose from, and my favorite is PyCharm. Here's a little information about it:
+If the only experience you have with coding is writing VBA (Visual Basic for Applications) in the VBE (Visual Basic Environment), then you would likely benefit from using another development environment to write Python. Fortunately, there are many to choose from, and my favorite is PyCharm. Here's a little information about it:
 
 ### Who makes PyCharm?
 PyCharm is made by the company [JetBrains](https://www.jetbrains.com/). They create tools for developers like yourself, and they do a great job at it. PyCharm in particular has a Professional Edition & a Community Edition. The Community Edition is open-source, kept up by the community, and is free to download and use, while the Professional Edition costs around $100-$200 per year.
