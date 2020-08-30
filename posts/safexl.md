@@ -46,7 +46,7 @@ That probably looks like a pretty familiar syntax to you! The biggest difference
 ```python
 import safexl
 ```
-This is a standard `import` statement for python, bringing in the `safexl` library. Importing a library is similar to how the VBE allows you to [reference](../master/posts/references.md) other libraries. 
+This is a standard `import` statement for python, bringing in the `safexl` library. Importing a library is similar to how the VBE allows you to [reference](../posts/references.md) other libraries. 
 
 ```python
 with safexl.application(kill_after=False, maximize=True, include_addins=True) as app:
