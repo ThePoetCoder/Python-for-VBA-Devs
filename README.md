@@ -1,26 +1,26 @@
 # Python for VBA Developers
 
 ### About
-* [Why teach Python to VBA Developers?](../master/about.md)
-* [When is it Time to Move on from VBA?](../master/when.md)
+* [Why teach Python to VBA Developers?](../master/posts/about.md)
+* [When is it Time to Move on from VBA?](../master/posts/when.md)
 
 ### Syntax Translations
-* [Comments](../master/comments.md)
-* [Equivalence & Assignment](../master/equivalence-and-assignment.md)
-* [Incrementing Variables](../master/increment.md)
-* [Quotes](../master/quotes.md)
-* [Select-Case Statement Workaround](../master/switch-case.md)
-* [Statement Delimiters](../master/statement-delim.md)
+* [Comments](../master/posts/comments.md)
+* [Equivalence & Assignment](../master/posts/equivalence-and-assignment.md)
+* [Incrementing Variables](../master/posts/increment.md)
+* [Quotes](../master/posts/quotes.md)
+* [Select-Case Statement Workaround](../master/posts/switch-case.md)
+* [Statement Delimiters](../master/posts/statement-delim.md)
 
 ### Breaking Free of the VBE
-* [Writing VBA Code in Python](../master/safexl.md)
-* [Running Python with VBA](../master/cmd.md)
-* [Who, What, Where, When, and Why PyCharm](../master/why-pycharm.md)
-* [PyCharm's Keymap](../master/keymap.md)
-* [References](../master/references.md)
-* [Print & Assert Statements](../master/print-and-assert.md)
+* [Writing VBA Code in Python](../master/posts/safexl.md)
+* [Running Python with VBA](../master/posts/cmd.md)
+* [Who, What, Where, When, and Why PyCharm](../master/posts/why-pycharm.md)
+* [PyCharm's Keymap](../master/posts/keymap.md)
+* [References](../master/posts/references.md)
+* [Print & Assert Statements](../master/posts/print-and-assert.md)
 
 ### The Pandas Library
-* [Importing Data From Excel](../master/xl-to-df.md)
-* [Filtering a Pandas Dataframe](../master/filtering-df.md)
-* [Getting a Row Count](../master/row-count.md)
+* [Importing Data From Excel](../master/posts/xl-to-df.md)
+* [Filtering a Pandas Dataframe](../master/posts/filtering-df.md)
+* [Getting a Row Count](../master/posts/row-count.md)
