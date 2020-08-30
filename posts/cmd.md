@@ -4,8 +4,8 @@ When you want to run a Python file from Excel/VBA, the basic idea I've used succ
 
 In an effort to simplify the process of calling the command line, instead of simply telling you which VBA functions are capable of doing that and telling you the pros and cons of using each, I wrote out a function that tries to integrate calling the command line into VBA as seamlessly as possible, and a number of wrapper functions around this to make calling Python  and returning values back from it ridiculously easy. Here's the code:
 
-* [VBA: Main 'cmd' function](../posts/code/cmd_main.md)
-* [VBA: Python Wrapper](../posts/code/run_py.md)
+* [VBA: Main 'cmd' function](../code/cmd_main.md)
+* [VBA: Python Wrapper](../code/run_py.md)
 
 Step by step, here's what you're going to do with the above code:
 ### Save the Code in an Add-in
