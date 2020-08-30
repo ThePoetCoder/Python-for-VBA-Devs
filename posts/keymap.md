@@ -16,7 +16,7 @@ F8 | Execute current line only (during debugging mode)
 But here's the thing; I wanted to change one of the Keyboard Shortcuts to be more like I remembered from the VBE. Specifically, there is a command they call "Step Into My Code" that you can use during debugging mode that acts identically to the way F7 works in the VBE during debugging mode, as in if the current line contains a function or method call (of code you wrote, not 3rd party library code) it will step into that code and continue to allow you to go line by line in the function or method. And here's how I accomplished that:
 
 Go into `File > Settings > Keymap` and you will find a subcutaneous tree-mapping of all actions that are available in the IDE. The one we are looking for is found under `Main Menu > Run > Force Step Into` (don't ask me why they call it "Step Into my Code" within the IDE and "Force Step Into" in the keymap, but that's the case). See below for a visual:
-![Step Into](../master/images/step_into.png)
+![Step Into](../images/step_into.png)
 
 As you can see from the picture, "Force Step Into" is given the keyboard shortcut of 'Alt+Shift+F7', while the one above it, "Step Into" is given 'F7'. "Step Into" will step into literally everything, including code you did not write, like Python library code, and I find it much less useful than "Force Step Into". So we're going to switch the keyboard shortcuts for these two.
 
