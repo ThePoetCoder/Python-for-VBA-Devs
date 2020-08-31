@@ -3,6 +3,7 @@
 ### About
 * [Why teach Python to VBA Developers?](../master/posts/about.md)
 * [When is it Time to Move on from VBA?](../master/posts/when.md)
+* [Conventions Used in this Project](../master/posts/conventions.md)
 
 ### Syntax Translations
 * [Comments](../master/posts/comments.md)
