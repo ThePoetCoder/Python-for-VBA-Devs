@@ -1,11 +1,4 @@
----
-created: 2020-08-30T17:29:12-05:00
-modified: 2020-08-30T18:07:57-05:00
----
-
-# for-loops
-
-# For Loops in Python
+# For Loops
 
 VBA makes a distinction between a "for loop" and a "for each loop", but Python makes no such distinction. In fact, *every* "for loop" in Python is a "for each loop" as you know it. Let's go over some examples:
 
