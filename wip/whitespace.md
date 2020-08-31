@@ -1,10 +1,3 @@
----
-created: 2020-08-30T17:27:27-05:00
-modified: 2020-08-30T18:34:25-05:00
----
-
-# whitespace
-
 # Whitespace
 
 I would argue that whitespace is very important in both Python and VBA for the *developer* to be able to read the code, but only in Python is the whitespace also important for the *computer* to be able to run the code. If you have gotten into a bad habit of neglecting to indent your code when the scope changes, then the way Python handles whitespace will come as quite a shock at first.
