@@ -45,7 +45,16 @@ For your own code, let's say you have 2 files named "A.py" and "B.py". Inside A.
 import A
 print(A.tf)
 ```
-For code you didn't write, you're going to want to learn to use the `pip` installer. Pip is the number one way to access TBs of code that other people are giving away for free on [PyPI](pypi.org). Once you have Python installed, you simply have to open a command prompt and type in `pip install` and the name of the package you're interested in downloading. For instance, if you wanted to download Pandas (once you have Python installed) you would open a command prompt and type in:
+For code you didn't write, there are 2 main ways to go; use a module in the [Python Standard Library](https://docs.python.org/3/library/index.html) or download a module that someone else wrote. The Python Standard Library is what people refer to when they say Python comes with "Batteries Included" because there is a **wealth** of code to utilize in your projects, for free and pre-packaged in most Python distributions. You can reference these modules from any .py file you're writing as simply as this:
+
+```python
+import random
+
+print(random.choice([1, 2, 3]))
+```
+Here we are referencing the builtin python library "random" and printing to the console the result of a function inside the random module called "choice". We pass the function "choice" a list containing the `ints` 1, 2 , and 3 and it will (randomly) select one from that list and return the result to the print function which displays the result.
+
+Eventually you may find a need to go beyond the Python Standard Library, and that's when you're going to want to learn how to use the `pip` installer. Pip is the number one way to access literal TBs of code that other people are giving away for free on [PyPI](pypi.org). Once you have Python installed, you simply have to open a command prompt and type in `pip install` and the name of the package you're interested in downloading. For instance, if you wanted to download Pandas (once you have Python installed) you would open a command prompt and type in:
 
 ```cmd
 pip install pandas
