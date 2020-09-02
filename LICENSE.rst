@@ -1,5 +1,7 @@
-This software is under the MIT Licence
+This software is under the MIT License
 ======================================
+
+Copyright (c) 2020 Eric Smith
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the
