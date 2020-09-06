@@ -18,6 +18,7 @@
 * [Running Python with VBA](../master/posts/cmd.md)
 * [Who, What, Where, When, and Why PyCharm](../master/posts/why-pycharm.md)
 * [PyCharm's Keymap](../master/posts/keymap.md)
+* [Using Bookmarks](../master/posts/bookmarks.md)
 * [References](../master/posts/references.md)
 * [Print & Assert Statements](../master/posts/print-and-assert.md)
 
