@@ -1,4 +1,4 @@
-# Bookmarks
+# Using Bookmarks
 
 To be completely honest, I prefer the way the VBE handles bookmarks rather than PyCharm. Even with tweaking the environment it's difficult to bring back the functionality found in the VBE. In fact I rarely use the bookmarks feature in PyCharm for this reason, and actually manage to get by without it nicely with a handful of other position changing techniques. But if you are so inclined, at the end of this post I will walk you through getting PyCharm as close as possible to using the bookmark buttons in the VBE.
 
