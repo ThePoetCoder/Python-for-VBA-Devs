@@ -1,6 +1,6 @@
 # Conventions Used in this Project
 
-Whenever you see a triple "Greater Than" operator like this `>>>` used here, know that this is the interactive way to use Python, and would be typed into a command prompt. To recreate this for yourself you would first need Python installed, open a command prompt and type "python" (or perhaps "python3" if you have multiple versions of Python installed or simply want to be specific) and it would open with the following (or something similar to it depending on your system):
+Whenever you see a triple "Greater Than" operator like this `>>>` used here, know that this is the interactive way to use Python, and would be typed into a command prompt. To recreate this for yourself you would first need Python installed, open a command prompt and type "python" (or perhaps "python3" if you have multiple versions of Python installed or simply want to be specific) and it would open with the following (or something similar to it depending on your system and the Python version you have installed):
 
 ```cmd
 Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 27 2018, 04:59:51) [MSC v.1914 64 bit (AMD64)] on win32
