@@ -22,6 +22,7 @@
 * [Using Bookmarks](../master/posts/bookmarks.md)
 * [References](../master/posts/references.md)
 * [Print & Assert Statements](../master/posts/print-and-assert.md)
+* [What about the Immediate Window?](../master/posts/immediate-window.md)
 
 ### The Pandas Library
 * [Importing Data From Excel](../master/posts/xl-to-df.md)
