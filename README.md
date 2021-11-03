@@ -28,3 +28,4 @@
 * [Importing Data From Excel](../master/posts/xl-to-df.md)
 * [Filtering a Pandas Dataframe](../master/posts/filtering-df.md)
 * [Getting a Row Count](../master/posts/row-count.md)
+* [Common Excel Operations Done In Pandas](../master/code/Common_Excel_Operations_Done_In_Pandas.ipynb)
