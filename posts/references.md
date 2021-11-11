@@ -8,12 +8,12 @@ VBA has similar functionality built into it, mainly via the "References" window.
 
 First, on the menu bar at the top, you would click on Tools > References... :
 
-![VBA Ref 1](../master/images/vba_references_1.png)
+![VBA Ref 1](../images/vba_references_1.png)
 
 
 Then you would find the correct module and check the box next to it:
 
-![VBA Ref 2](../master/images/vba_references_2.png)
+![VBA Ref 2](../images/vba_references_2.png)
 
 
 From there you would be able to declare a variable as an object found within the referenced library like so:
