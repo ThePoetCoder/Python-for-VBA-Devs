@@ -13,6 +13,7 @@
 * [Select-Case Statement Workaround](../master/posts/switch-case.md)
 * [Statement Delimiters](../master/posts/statement-delim.md)
 * [Whitespace](../master/posts/whitespace.md)
+* [Datetime Formatting](../master/posts/datetime-formatting.md)
 
 ### Breaking Free of the VBE
 * [Writing VBA Code in Python](../master/posts/safexl.md)
